@@ -1,0 +1,28 @@
+
+.hourHand {
+  fill: white;
+}
+
+.minuteHand{
+  fill: white;
+}
+
+.secondHand{
+  fill: gainsboro;
+}
+
+.opacity{
+  opacity:1.0 !important;
+}
+
+.hours{
+  fill: white;
+}
+.minutes{
+  fill: white;
+}
+
+.inv_icon{
+  fill: red; 
+  opacity: 1;
+}
